@@ -5,10 +5,11 @@
 */
 class AreaOfRectangle{
   public static void main(String args[]) {
-    int Area, h, w;
-    h=10;
-    w=5;
-    Area = h * w;
-    System.out.println("AreaOfRectangleis: " + Area);
+    int area, hight, width;
+    hight = 10;
+    width = 5;
+    area = hight * width;
+
+    System.out.println("Area Of Rectangle is: " + area);
   }
 }
