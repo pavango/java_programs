@@ -9,13 +9,13 @@ class GuessANumber {
             System.out.println("Guess The Number :");
             guessingnumber = sc.nextInt();
             if (randamnumber == guessingnumber) {
-                System.out.println("you Guessed it right");
+                System.out.println("Your Guesse Is Right");
             }
             if (guessingnumber < randamnumber) {
-                System.out.println("too less try again");
+                System.out.println("Too Less Try Again");
             }
             if (guessingnumber > randamnumber) {
-                System.out.println("Too high try again ");
+                System.out.println("Too High Try Again ");
             }
         } while (guessingnumber != randamnumber);
 
