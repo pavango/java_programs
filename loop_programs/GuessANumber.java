@@ -1,9 +1,11 @@
 import java.util.Scanner;
+import java.util.Random;
 
 class GuessANumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        final int randamnumber = 77;
+        Random rand = new Random();
+        final int randamnumber = rand.nextInt(9999999);
         int guessingnumber = 0;
         do {
             System.out.println("Guess The Number :");
