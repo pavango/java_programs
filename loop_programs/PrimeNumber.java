@@ -5,6 +5,9 @@ class PrimeNumber {
         boolean primenumber = true;
         System.out.print("Enter The Number :");
         int number = sc.nextInt();
+        if (number == 1) {
+            primenumber = false;
+        }
         for (int i = 2; i < number; i++) {
             int value = number % i;
             if (value == 0) {
