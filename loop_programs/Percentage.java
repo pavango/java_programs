@@ -1,41 +1,41 @@
 //importing the Scanner class from java.utill package
 import java.util.Scanner;
 
-//creating the class marks
+//defining class marks
 class Marks {
-    //creating an block of mainfunction with string arguments
+    //defining the main function
     public static void main(String[] args) {
-        //createing the sc veriable and storing an value
+        //initializing the Scanner
         Scanner sc = new Scanner(System.in);
-        //printing the instartion for user to give an number
+        //printing the instruction for user to give an number
         System.out.print("Enter The Total Number Of Subjects :");
-        //reading the value and storing that value to the new veriable
+        //reading the value and storing that value to the new variable
         int subjects = sc.nextInt();
-        //cerateing the veriable
+        //cratering the variable
         int sub;
-        //createing the variable and storeing the value
+        //creating the variable and storing the value
         double obtained = 0;
-        //createing an for loop by createing an veriable  and storeing an value
-        // and giveing an condition and incrementing the value of the veriable
+        //creating an for loop by creating an variable  and storing an value
+        // and giving an condition and increment the value of the variable
         for(sub = 0; sub < subjects; sub++){
-            //storeing the value of the sum of sub and 1 to the variable
+            //storing the value of the sum of sub and 1 to the variable
             int subjectNumber = sub + 1;
-            //printing the value of subjectNumber with instraction
+            //printing the value of subjectNumber with instruction
             System.out.print("Subject " + subjectNumber + ":");
-            //reading the value and storing that value to veriable
+            //reading the value and storing that value to variable
             double marks = sc.nextDouble();
-            //storing the value of the sum of obtaind value and marks value to the obtaind(veriable)
+            //storing the value of the sum of obtained value and marks value to the obtained (variable)
             obtained = obtained + marks;
-        //closeing the for loop
+        //closing the for loop
         }
-        //storing the value of multipleyingthe subjects value from the 100 to the totale veriable
+        //storing the value of multiplying the subjects value from the 100 to the total variable
         double total = subjects * 100;
-        //storeing  the obtained value is divideing by the total vaue
-        //and comeing value is multipleying by the 100 and storeing the value to percentage veriable
+        //storing  the obtained value is dividing by the total value
+        //and coming value is multiplying by the 100 and storing the value to percentage variable
         double percentage = (obtained / total) * 100;
-        //printing the value of percentage with instraction
+        //printing the value of percentage with instruction
         System.out.println("The Percentage Is :" + percentage);
-    //closeing the main block
+    //closing the main block
     }
-//closeing the class block
+//closing the class block
 }

@@ -1,22 +1,22 @@
-//createing an class block  with class name
+//defining the class NaturalNumberUsingWhileLoop
 class NaturalNumberUsingWhileLoop {
-    //createing block of main function with string arguments
+    //deafening the main function
     public static void main(String[] args) {
-        //cerating veriable and storing an value
+        //creating variable and storing an value
         int total = 0;
-        //cerateing veriable and storeing an value
+        //cratering variable and storing an value
         int naturalnumber = 0;
-        //createing an while loop with and giveing an condition
+        //creating an while loop with and giving an condition
         while (naturalnumber <= 10) {
             //storing an value of the sum of total and naturalnumber
             total = total + naturalnumber;
-            //incrementing the value of naturalnumber
+            //increment the value of naturalnumber
             naturalnumber++;
         //closing the while loop
         }
-        //printing the value of total with an instartion
+        //printing the value of total with an instruction
         System.out.println("The Sum Of First 10 Natural Number Is :" + total);
-    //closeing the main block
+    //closing the main block
     }
-//closing the 
+//closing the class block
 }

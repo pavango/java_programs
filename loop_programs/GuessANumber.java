@@ -32,15 +32,15 @@ class GuessANumber {
                 System.out.println("Too Less Try Again");
                 //closing an if block
             }
-            //createing if block and cheaking an condition
+            //creating if block and creaking an condition
             if (guessingnumber > randamnumber) {
                 //printing an instartion
                 System.out.println("Too High Try Again ");
                 //closing an if block
             }
-            //incrementing the loop by cheaking the conditin
+            //increment the loop by cheeking the condition
         } while (guessingnumber != randamnumber);
-        //closing an main bolock
+        //closing an main 
     }
-    //closeing an class block
+    //closing an class
 }

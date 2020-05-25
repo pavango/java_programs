@@ -1,17 +1,17 @@
-//Cerateing the class block with class name
+//Creating class NaturalNumbers
 class NaturalNumbers {
-    //createing a block of main function with string argumnets
+    //defining a main function
     public static void main(String[] args) {
-        //createing an veriable and storingan value
+        //creating an variable and storing an value
         int total = 0;
-        //createing an for loop by createing an veriable  and storeing an value
-        // and giveing an condition and incrementing the value of the veriable
+        //creating an for loop by creating an variable  and storing an value
+        // and giving an condition and increment the value of the variable
         for(int naturalnumber = 0; naturalnumber <= 10; naturalnumber++) {
-            //storing an value of the sum of total and naturalnumber to total veriable
+            //storing an value of the sum of total and natural number to total variable
             total = total + naturalnumber;
-            // closeing for loop block
+            // closing for loop block
         }
-        //printing value of total with instartion
+        //printing value of total with instruction
         System. out.println("The Sum Of First 10 Natural Number Is :" + total);
     //closing  main block
     }
