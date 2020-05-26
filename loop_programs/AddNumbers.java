@@ -14,7 +14,6 @@ class AddTwoNumbers {
             + " Is :" + sum);
             System.out.print("Give 1 To Continue Or Give 0 To Exit :");
             i = sc.nextInt();
-            
         }
     }
 }
