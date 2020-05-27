@@ -7,25 +7,23 @@ class CountOfPositiveNegativeAndZeros {
         int negetiveNumbers = 0;
         int zeros = 0;
         int i = 0;
-    do {
+        do {
             System.out.print("Enter The Number :");
             int number = sc.nextInt();
             if (number > 0) {
                 positiveNumbers++;
-            }
-            if (number < 0) {
+            } else if (number < 0) {
                 negetiveNumbers++;
-            }
-            if (number == 0) {
+            } else {
                 zeros++;
             }
             System.out.print("Give Any number To Continue Or Give 0 To Exit :");
             i = sc.nextInt();
-        } while(i != 0);
+        } while (i != 0);
         System.out.println("In Given Numbers Positive Numbers Are "
-        + positiveNumbers+);
+        + positiveNumbers);
         System.out.println("In Given Numbers Negative Numbers Are "
         + negetiveNumbers);
-        System.out.println("In Given Numbers Zeros Are " + zeros );
+        System.out.println("In Given Numbers Zeros Are " + zeros);
     }
 }
