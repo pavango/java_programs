@@ -10,14 +10,14 @@ class FibNumber {
         int number = sc.nextInt();
         System.out.print(secondPreviousNumber + " ");
         System.out.print(previousNumber + " ");
-        int i = 3;
+        int counter = 3;
         do {
             currentNumber = secondPreviousNumber + previousNumber;
             secondPreviousNumber = previousNumber;
             previousNumber = currentNumber;
             System.out.print(currentNumber + " ");
-            i++;
-        } while (i <= number);
+            counter++;
+        } while (counter <= number);
         System.out.println();
     }
 }
