@@ -9,7 +9,7 @@ class PrintingArrayInEvenPozition {
         for (int i = 0; i < size; i++) {
             numbersArray[i] = sc.nextInt();
         }
-        for (int j = 0 ; j < size; j++) {
+        for (int j = 0; j < size; j++) {
             j = j + 1;
             System.out.print(numbersArray[j] + " ");
         }
