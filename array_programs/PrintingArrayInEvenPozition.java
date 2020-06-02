@@ -10,10 +10,10 @@ class PrintingArrayInEvenPozition {
         for (int i = 0; i < size; i++) {
             numbersArray[i] = sc.nextInt();
         }
+        System.out.print("In GIven Numbers The Even position values are :");
         for (int j = 0; j < size; j++) {
             j = j + 1;
-            System.out.print("In GIven Numbers The Even position values are :"
-            + numbersArray[j] + " ");
+            System.out.print(numbersArray[j] + " ");
         }
         System.out.println();
     }

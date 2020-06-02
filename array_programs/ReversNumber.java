@@ -10,9 +10,9 @@ class ReversNumber {
         for (int i = 0; i < size; i++) {
             numbersArray[i] = sc.nextInt();
         }
+        System.out.print("The Revers Form Of Given Numbers Is :");
         for (int j = size - 1; j >= 0; j--) {
-            System.out.print("The Revers Form Of Given Numbers Is :"
-            + numbersArray[j] + " ");
+            System.out.print(numbersArray[j] + " ");
         }
         System.out.println();
     }

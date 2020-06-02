@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class PrintingGivenNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -9,8 +10,9 @@ class PrintingGivenNumbers {
         for (int i = 0; i < size; i++) {
             numbersArray[i] = sc.nextInt();
         }
+        System.out.print("The Given Numbers Are :");
         for (int j = 0; j < size; j++) {
-            System.out.print("The Given Numbers Are :" + numbersArray[j] + " ");
+            System.out.print(numbersArray[j] + " ");
         }
         System.out.println();
     }
