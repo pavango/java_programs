@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PrintingArrayInEvenPozition {
+class PrintingArrayInOddPozition {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter The Size Of An Numbers :");
@@ -11,8 +11,10 @@ class PrintingArrayInEvenPozition {
             numbersArray[i] = sc.nextInt();
         }
         for (int j = 0; j < size; j++) {
-            j = j + 1;
-            System.out.print(numbersArray[j] + " ");
+            int remainder = j % 2;
+            if (remainder == 0) {
+                System.out.print(numbersArray[j] + " ");
+            }
         }
         System.out.println();
     }
