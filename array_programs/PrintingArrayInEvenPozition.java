@@ -12,7 +12,8 @@ class PrintingArrayInEvenPozition {
         }
         for (int j = 0; j < size; j++) {
             j = j + 1;
-            System.out.print(numbersArray[j] + " ");
+            System.out.print("In GIven Numbers The Even position values are :"
+            + numbersArray[j] + " ");
         }
         System.out.println();
     }

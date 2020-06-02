@@ -10,7 +10,7 @@ class PrintingGivenNumbers {
             numbersArray[i] = sc.nextInt();
         }
         for (int j = 0; j < size; j++) {
-            System.out.print(numbersArray[j] + " ");
+            System.out.print("The Given Numbers Are :" + numbersArray[j] + " ");
         }
         System.out.println();
     }

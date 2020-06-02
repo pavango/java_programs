@@ -11,7 +11,8 @@ class ReversNumber {
             numbersArray[i] = sc.nextInt();
         }
         for (int j = size - 1; j >= 0; j--) {
-            System.out.print(numbersArray[j] + " ");
+            System.out.print("The Revers Form Of Given Numbers Is :"
+            + numbersArray[j] + " ");
         }
         System.out.println();
     }

@@ -13,7 +13,8 @@ class PrintingArrayInOddPozition {
         for (int j = 0; j < size; j++) {
             int remainder = j % 2;
             if (remainder == 0) {
-                System.out.print(numbersArray[j] + " ");
+               System.out.print("In GIven Numbers The Odd position values are :"
+               + numbersArray[j] + " ");
             }
         }
         System.out.println();
