@@ -12,7 +12,7 @@ class PrintingInAccendingOrder {
         }
         for (int j = 0; j < size; j++) {
             for (int k = j + 1; k < size; k++) {
-                if (numbersArray[j] > numbersArray[k]){
+                if (numbersArray[j] > numbersArray[k]) {
                     int largestNumber = numbersArray[j];
                     numbersArray[j] = numbersArray[k];
                     numbersArray[k] = largestNumber;
@@ -20,7 +20,7 @@ class PrintingInAccendingOrder {
             }
         }
         System.out.print("Elements Of Array Sorted In Ascending Order :");
-        for (int x = 0;x < size;x++) {
+        for (int x = 0; x < size; x++) {
             System.out.print(numbersArray[x] + " ");
         }
         System.out.println();
