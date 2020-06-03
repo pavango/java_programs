@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ProgramToRightRotateElementsInArray {
+class ProgramToLeftRotateElementsInArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter The Size Of An Numbers :");
@@ -14,13 +14,13 @@ class ProgramToRightRotateElementsInArray {
         int rotation = sc.nextInt();
         int rotationValue = rotation % size;
         for (int k = 0; k < rotationValue; k++) {
-            int lastElement = numbersArray[size - 1];
-            for (int j = size - 1; j > 0; j--) {
-                numbersArray[j] = numbersArray[j - 1];
+            int firstElement = numbersArray[0];
+            for (int j = 0; j < size - 1; j++) {
+                numbersArray[j] = numbersArray[j + 1];
             }
-            numbersArray[0] = lastElement;
+            numbersArray[size - 1] = firstElement;
         }
-        System.out.print("Array After Right Rotation :");
+        System.out.print("Array After Left Rotation :");
         for (int k = 0; k < size; k++) {
             System.out.print(numbersArray[k] + " ");
         }
