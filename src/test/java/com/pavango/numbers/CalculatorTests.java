@@ -3,7 +3,7 @@ package com.pavango.numbers;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class CalculaorTests {
+class CalculatorTests {
     @Test
     void shouldAdd2And1() {
         Calculator calculator = new Calculator();
