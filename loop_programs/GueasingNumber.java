@@ -7,6 +7,7 @@ class GueasingNumber {
         int midPoint = 0;
         int minimumValue = 0;
         int maximumvalue = Integer.MAX_VALUE;
+        int chanceNumber = 1;
         do {
             midPoint = (minimumValue + maximumvalue) / 2;
             System.out.println("Is This Your Number :" + midPoint);
@@ -20,7 +21,10 @@ class GueasingNumber {
             if (number == 2) {
                 minimumValue = midPoint;
             }
+            chanceNumber++;
         } while (number != 3);
         System.out.println("This Is Your Number :" + midPoint);
+        System.out.println("You Taken " + chanceNumber
+        + " Chance To Guess The Number");
     }
 }
