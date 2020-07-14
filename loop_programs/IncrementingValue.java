@@ -8,8 +8,8 @@ class IncrementingValue {
     do {
             System.out.print("Enter The Number :");
             int number = sc.nextInt();
-            if (number > 0){
-                x++;
+            if (number > 0) {
+                  x++;
             }
             System.out.print("Give Any number To Continue Or Give 0 To Exit :");
             i = sc.nextInt();
