@@ -7,7 +7,7 @@ class NaturalNumberUsingWhileLoop {
         //cratering variable and storing an value
         int naturalnumber = 0;
         //creating an while loop with and giving an condition
-        while (naturalnumber <= 10) {
+        while (naturalnumber <= 20) {
             //storing an value of the sum of total and naturalnumber
             total = total + naturalnumber;
             //increment the value of naturalnumber
