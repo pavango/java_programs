@@ -6,7 +6,7 @@ class AreaOFParallelogram {
         int base,hight,area ;
         System.out.print("Enter the value of base:");
         base = sc.nextInt();
-        System.out.print("Enter The Value Of Hight:");
+        System.out.print("Enter The Value Of ");
         hight = sc.nextInt();
         area = base * hight;
         System.out.println("The Area Of Parallelogram Is: " + area);
