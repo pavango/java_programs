@@ -14,7 +14,7 @@ class Factorial {
         //creating new variable and storing an value.
         int factorial = 1;
         //creating an for loop with createing an variable and storing an value condition and incrementing the veriable value.
-        for (int number = 0; number < factorialnumber; number++) {
+        for (int number = 0; number < factorialnumber;; number++) {
             //storing an value of right side to lift side variable.
             factorial = factorial * (number + 1);
             //closing the for loop block.
