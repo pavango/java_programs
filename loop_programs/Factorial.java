@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 //defining the class Factorial.
 class Factorial {
-    //defining  the  main function.
+    //defining the  main function.
     public static void main(String[] args) {
         //initializing Scanner.
         Scanner sc = new Scanner(System.in);
