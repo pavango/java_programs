@@ -19,7 +19,7 @@ class FactrialWhileloop {
         while (number <= factorialnumber) {
             // incrementing the variable value,
             number++;
-            //closing the loop ,
+            //closing the loop,
         }
         //printing the value of factorial number and factorial with instruction,
         System.out.println("The Factorial Of " + factorialnumber + "! Is "
