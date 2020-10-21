@@ -2,7 +2,7 @@
 List of java programs
 ## I Created This Repositorie To Learn Java  Programing Language.
 
-### *) Besic Programs :-
+### Besic Programs :-
 #### Programs help you to find output by useing Formuls like :-
 
 ##### 1) Area Of Cirecle :- https://github.com/pavango/java_programs/blob/master/basic_programs/AreaOfCircle.java
@@ -22,6 +22,6 @@ List of java programs
 ##### 15) Volume Of Cylineder :- https://github.com/pavango/java_programs/blob/master/basic_programs/VolumeOfCylinder.java
 ##### 16) Volume Of Sphere :- https://github.com/pavango/java_programs/blob/master/basic_programs/VolumeOfSphere.java
 
-### *) Loop programs :-
+### Loop programs :-
 
-#### The programs which are created by useing Iteration Statements , ( These statements create what we commonly call loops ) :-
+#### These Programs are created by useing '  Iteration Statements ' , ( These statements create what we commonly call loops ) :-
