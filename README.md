@@ -25,3 +25,7 @@ List of java programs
 ### Loop programs :-
 
 #### These Programs are created by useing '  Iteration Statements ' , ( These statements create what we commonly call loops ) :-
+
+##### 1) This code is to Add given 2 numbers till user wish to exit , (This code is created by useing while loop) :-https://github.com/pavango/java_programs/blob/master/loop_programs/AddNumbers.java
+
+##### 2) This code is to Add given 2 numbers till user wish to exit , (This code is created by useing do while loop) :-https://github.com/pavango/java_programs/blob/master/loop_programs/AddTwoNumbers.java
