@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class DiralriumNumber {
+class DisariumNumber {
     public static int lengthOf(int number) {
         int number1 = number;
         int size = 0;

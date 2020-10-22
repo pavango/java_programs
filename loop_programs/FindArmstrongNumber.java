@@ -1,9 +1,12 @@
 import java.lang.Math;
+import java.util.Scanner;
 
 class FindArmstrongNumber {
     public static void main(String[] args) {
-        System.out.println("The Armstrong numbers Between 0 To 500 are :");
-        for (int i = 0;i <= 500; i++ ) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter The Number, Till How Much I Have to print Armstrong numbers:");
+        int end_Number = sc.nextInt();
+        for (int i = 0;i <= end_Number; i++ ) {
             int number = i;
             int sumOfCubeNumber = 0;
             do {
