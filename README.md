@@ -29,16 +29,16 @@ List of java programs
 ##### 1) This code is to Add given 2 numbers till user wish to exit , (This code is created by useing while loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/AddNumbers.java
 
 ##### 2) This code is to Add given 2 numbers till user wish to exit , (This code is created by useing do while loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/AddTwoNumbers.java
-##### 3) This code is to count the Positive, Negetive, Zeros in the given numbers :-https://github.com/pavango/java_programs/blob/master/loop_programs/CountOfPositiveNegativeAndZeros.java
-##### 4) This code is to find the give number is Disarium number or Not a Disarium number :- 
-##### 5) This code is to find Factorial number from the given number ( This code is created by useing for loop) :-
-##### 6) This code is to find Factorial number from the given number ( This code is created by useing while loop) :-
-##### 7) This code is to print fibonacci series :-
-##### 8) This code is to print Armstrong numbers :-
-##### 9) This code is to find which is largest and which is smallest, in the given numbers :-
-##### 10) This code is an simple game , whare user will keep a number, Then system will find that number :-
-##### 11) This code is an simple game , whare system will keep a number, Then user wants to find that number :-
-##### 12) This code is to find the give number is Harshad number or Not a Harshad number :-
-##### 13) This code is is to count how maney inputs that user has given :-
-##### 14) This code is to print Sum of 10 natural numbers (This code is created by useing for loop):-
-##### 15) This code is to print Sum of 10 natural numbers (This code is created by useing while loop):-
+##### 3) This code is to count the Positive, Negetive, Zeros in the given numbers :- https://github.com/pavango/java_programs/blob/master/loop_programs/CountOfPositiveNegativeAndZeros.java
+##### 4) This code is to find the give number is Disarium number or Not a Disarium number :- https://github.com/pavango/java_programs/blob/master/loop_programs/DisariumNumber.java
+##### 5) This code is to find Factorial number from the given number ( This code is created by useing for loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/Factorial.java
+##### 6) This code is to find Factorial number from the given number ( This code is created by useing while loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/FactrialWhileloop.java
+##### 7) This code is to print fibonacci numbers :- https://github.com/pavango/java_programs/blob/master/loop_programs/FibNumber.java
+##### 8) This code is to print Armstrong numbers :- https://github.com/pavango/java_programs/blob/master/loop_programs/FindArmstrongNumber.java
+##### 9) This code is to find which is largest and which is smallest, in the given numbers :- https://github.com/pavango/java_programs/blob/master/loop_programs/FindLargestAndSmallest.java
+##### 10) This code is an simple game , whare user will keep a number, Then system will find that number :- https://github.com/pavango/java_programs/blob/master/loop_programs/GueasingNumber.java
+##### 11) This code is an simple game , whare system will keep a number, Then user wants to find that number :- https://github.com/pavango/java_programs/blob/master/loop_programs/GuessANumber.java
+##### 12) This code is to find the give number is Harshad number or Not a Harshad number :- https://github.com/pavango/java_programs/blob/master/loop_programs/HarshadNumber.java
+##### 13) This code is is to count how maney inputs that user has given :- https://github.com/pavango/java_programs/blob/master/loop_programs/IncrementingValue.java
+##### 14) This code is to print Sum of 10 natural numbers (This code is created by useing for loop):- https://github.com/pavango/java_programs/blob/master/loop_programs/NaturalNumberUsingWhileLoop.java
+##### 15) This code is to print Sum of 10 natural numbers (This code is created by useing while loop):- https://github.com/pavango/java_programs/blob/master/loop_programs/NaturalNumbers.java
