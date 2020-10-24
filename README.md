@@ -42,3 +42,18 @@ List of java programs
 ##### 13) This code is is to count how maney inputs that user has given :- https://github.com/pavango/java_programs/blob/master/loop_programs/IncrementingValue.java
 ##### 14) This code is to print Sum of 10 natural numbers (This code is created by useing for loop):- https://github.com/pavango/java_programs/blob/master/loop_programs/NaturalNumberUsingWhileLoop.java
 ##### 15) This code is to print Sum of 10 natural numbers (This code is created by useing while loop):- https://github.com/pavango/java_programs/blob/master/loop_programs/NaturalNumbers.java
+##### 16) This code is to faind percentage of given total number (This code is created by useing while loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/PercenetageUseingWhileloop.java
+##### 17) This code is to find percentage of given total number (This code is created by useing for loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/Percentage.java
+##### 18) This code is to faind power of given number (This code is created by useing for loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/Power.java
+##### 19) This code is to faind power of given number (This code is created by useing while loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/PowerUsingWhileLoop.java
+##### 20) This code is to find the give number is prime number or Not a prime number :- https://github.com/pavango/java_programs/blob/master/loop_programs/PrimeNumber.java
+##### 21) This code is to print an pattern of Daimond :- https://github.com/pavango/java_programs/blob/master/loop_programs/PrintingDimond.java
+##### 22) This code is to print an pattern of Pyramid :- https://github.com/pavango/java_programs/blob/master/loop_programs/PrintingPeramid.java
+##### 23) This code is to print an pattern of Invarce Pyramid :- https://github.com/pavango/java_programs/blob/master/loop_programs/PrintingPyramidBack.java
+##### 24) This code is to print an pattern of Triangle :- https://github.com/pavango/java_programs/blob/master/loop_programs/PrintingTriangle.java
+##### 25) This code is to reverse the given numbers :- https://github.com/pavango/java_programs/blob/master/loop_programs/ReverseNumber.java
+##### 26) This is an simple switch program for mathametical functions :- https://github.com/pavango/java_programs/blob/master/loop_programs/SimpleSwitchProgram.java
+##### 27) This code is for doing sum of Even And Odd numbers from the given numbers :- https://github.com/pavango/java_programs/blob/master/loop_programs/SumOfEvenAndOddNumbers.java
+##### 28) This code is to add the siries of given number :- https://github.com/pavango/java_programs/blob/master/loop_programs/SumOfSiries.java
+##### 29) This code is to print the tables of given number (This code is created by useing for loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/Table.java
+##### 30) This code is to print the tables of given number (This code is created by useing while loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/TableUseingWhileLoop.java
