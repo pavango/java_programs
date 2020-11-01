@@ -57,3 +57,14 @@ List of java programs
 ##### 28) This code is to add the siries of given number :- https://github.com/pavango/java_programs/blob/master/loop_programs/SumOfSiries.java
 ##### 29) This code is to print the tables of given number (This code is created by useing for loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/Table.java
 ##### 30) This code is to print the tables of given number (This code is created by useing while loop) :- https://github.com/pavango/java_programs/blob/master/loop_programs/TableUseingWhileLoop.java
+### Loop programs :-
+
+#### These Programs are created by useing Array :-
+##### 1) This is simple Class code (One program contains Two Class):-
+##### 2) This is a code to Check given Matrix is Identity Matrix Or Not :-
+##### 3) This is a code to Check given Matrix is Sparse Matrix Or Not :-
+##### 3) This is a code to Check given Matrix is Equal Or Not :-
+##### 4) Program to display Lower Triangular Matrix :-
+##### 5) Program to display Upper Triangular Matrix :-
+##### 6) Program to find Duplicate Elements of an Array :-
+##### 7) Program to find Frequency of Even And Odd numbers in the given Matrix :- 
