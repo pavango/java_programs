@@ -6,7 +6,7 @@ class PrintingGivenNumbers {
         System.out.print("Enter The Size Of an Numbers :");
         int size = sc.nextInt();
         int[] numbersArray = new int[size];
-        System.out.print("enter the elements :");
+        System.out.print("Enter the Elements :");
         for (int i = 0; i < size; i++) {
             numbersArray[i] = sc.nextInt();
         }

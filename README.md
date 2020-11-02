@@ -60,11 +60,28 @@ List of java programs
 ### Loop programs :-
 
 #### These Programs are created by useing Array :-
-##### 1) This is simple Class code (One program contains Two Class):-
-##### 2) This is a code to Check given Matrix is Identity Matrix Or Not :-
-##### 3) This is a code to Check given Matrix is Sparse Matrix Or Not :-
-##### 3) This is a code to Check given Matrix is Equal Or Not :-
-##### 4) Program to display Lower Triangular Matrix :-
-##### 5) Program to display Upper Triangular Matrix :-
-##### 6) Program to find Duplicate Elements of an Array :-
-##### 7) Program to find Frequency of Even And Odd numbers in the given Matrix :- 
+##### 1) This is simple Class Program (One program contains Two Class:- https://github.com/pavango/java_programs/blob/master/array_programs/BoxDemo2.java
+##### 2) Program to Check given Matrix is Identity Matrix Or Not :- https://github.com/pavango/java_programs/blob/master/array_programs/CheckGivenMatrixIsAnIdentityMatrix.java
+##### 3) Program to Check given Matrix is Sparse Matrix Or Not :- https://github.com/pavango/java_programs/blob/master/array_programs/CheckGivenMatrixIsSparseMatrix.java
+##### 4) Program to Check given Matrix is Equal Or Not :- https://github.com/pavango/java_programs/blob/master/array_programs/DetermineWhetherTwoMatricesAreEqual.java
+##### 5) Program to display Lower Triangular Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/DisplayTheLowerTriangularMatrix.java
+##### 6) Program to display Upper Triangular Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/DisplayUpperTriangularMatrix.java
+##### 7) Program to find Duplicate Elements of an Array :- https://github.com/pavango/java_programs/blob/master/array_programs/FindingDuplicatElementsOfAnArray.java
+##### 8) Program to find Frequency of Even And Odd numbers in the given Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/FrequencyOfOddEvenNumbersInTheGivenMatrix.java
+##### 9) Program to find Largest number in the given Array Elements :- https://github.com/pavango/java_programs/blob/master/array_programs/PrintigLragestvalue.java
+##### 10) Program to find Smallest number in the given Array Elements :- https://github.com/pavango/java_programs/blob/master/array_programs/PrintigSmalestvalue.java
+##### 11) Program to printing values of Even Position in the given Array Elements :- https://github.com/pavango/java_programs/blob/master/array_programs/PrintingArrayInEvenPozition.java
+##### 12) Program to printing values of Odd Position in the given Array Elements :- https://github.com/pavango/java_programs/blob/master/array_programs/PrintingArrayInOddPozition.java
+##### 13) Program to print given Array Elements :- https://github.com/pavango/java_programs/blob/master/array_programs/PrintingGivenNumbers.java
+##### 14) Program to print Array Elements in the Accending Order :- https://github.com/pavango/java_programs/blob/master/array_programs/PrintingInAccendingOrder.java
+##### 15) Program to print Array Elements in the Descending Order :- https://github.com/pavango/java_programs/blob/master/array_programs/PrintingInDescendingOrder.java
+##### 16) Program to print New Elements in the Original Array Elemnts :- https://github.com/pavango/java_programs/blob/master/array_programs/PrintingNewElements.java
+##### 17) Program to print Product of Two Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/ProductOfTwoMatrices.java
+##### 18) Program to print Addition of Two Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/ProgramToCalculateTheAdditionOf2Matrices.java
+##### 19) Program to print Subtraction of Two Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/ProgramToCalculateTheSubtractionOf2Matrices.java
+##### 20) Program to Rotate the  Array Elements to the Left Side :- https://github.com/pavango/java_programs/blob/master/array_programs/ProgramToLeftRotateElementsInArray.java
+##### 21) Program to Rotate the  Array Elements to the Right Side :- https://github.com/pavango/java_programs/blob/master/array_programs/ProgramToRightRotateElementsInArray.java
+##### 22) Program to print Revers of given Number :- https://github.com/pavango/java_programs/blob/master/array_programs/ReversNumber.java
+##### 23) Program to print Sum of each Row And Column :- https://github.com/pavango/java_programs/blob/master/array_programs/SumOfEachRowAndColumnOfMatrix.java
+##### 24) Program to print Sum of given Array Elements :- https://github.com/pavango/java_programs/blob/master/array_programs/SumOfGivenArrayElements.java
+##### 25) Program to print Transpose Of Given Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/TransposeOfGivenMatrix.java
