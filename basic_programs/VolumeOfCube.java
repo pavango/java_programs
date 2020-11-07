@@ -8,6 +8,6 @@ class VolumeOfCube {
         System.out.print("Enter The Value Of Edge:");
         edge = sc.nextDouble();
         volume = Math.pow(edge, 3);
-        System.out.println("The Volume Of Cube s:" + volume);
+        System.out.println("The Volume Of Cube Is:" + volume);
     }
 }
