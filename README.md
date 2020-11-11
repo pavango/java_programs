@@ -91,35 +91,42 @@ List of java programs
 ##### 1) Code To Add two Numbers :-
 - Source Code to Add two numbers : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/Calculator.java
 - Test Code to Add two number : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/CalculatorTests.java
+##### 2) Code To Calculate Area Of Circle :-
+* Source code to calculate Area Of Circle : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/AreaOfCircle.java
+* Test code to calculate Area Of Circle : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/AreaOfCircleTests.java
 
-##### 2) Code To Check Given Strings Are Same Or Not :-
+##### 3) Code To Calculate Area Of Cube :-
+* Source code to calculate Area Of Cube : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/AreaOfCube.java
+* Test code to calculate Area Of Cuebe : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/AreaOfCubeTests.java
+
+##### 4) Code To Check Given Strings Are Same Or Not :-
 * Source Code to Check Strings Are Same Or Not : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CheckStringsAreSame.java
 * Test Code to Check Strings Are Same Or Not : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CheckStringsAreSameTest.java
 
-##### 3) Code To Count Punctions In The Given String :-
+##### 5) Code To Count Punctions In The Given String :-
 * Source Code To Count Punctions In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CountPunctuations.java
 * Test Code To Count Punctions In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CountPunctuationsTests.java
 
-##### 4) Code To Count Vowels In The Given String :-
+##### 6) Code To Count Vowels In The Given String :-
 * Source Code to Count Vowels In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CountVowels.java
 * Test Code to Count Vowels In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CountVowelsTests.java
 
-##### 5) Code To Count Words In The Given String :-
+##### 7) Code To Count Words In The Given String :-
 * Source Code To Count Words In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CountWordsInString.java
 * Test Code To Count Words In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CountWordsInStringTests.java
 
-##### 6) Code To Check The Length Of An Given String :-
+##### 8) Code To Check The Length Of An Given String :-
 * Source Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/Length.java
 * Test Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/LengthTests.java
 
-##### 7) Code To Remove The White Space In The Given Sting :-
+##### 9) Code To Remove The White Space In The Given Sting :-
 * Source Code To Remove The White Space In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/RemoveWhiteSpace.java
 * Test Code To Remove The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/RemoveWhiteSpaceTests.java
 
-##### 8) Code To Replace The White Space In The Given Sting :-
+##### 10) Code To Replace The White Space In The Given Sting :-
 * Source Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/ReplaceWhiteSpace.java
 * Test Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/ReplaceWhiteSpaceTests.java
 
-##### 9) Code To Trim Space In The Given String :-
+##### 11) Code To Trim Space In The Given String :-
 * Source Code To Trim Space In The String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/TrimSpace.java
 * Test Code To Trim Space In The String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/TrimSpaceTests.java
