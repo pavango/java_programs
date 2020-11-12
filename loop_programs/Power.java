@@ -7,11 +7,11 @@ class Power {
         //initializing the scanner
        Scanner sc = new Scanner(System.in);
        //printing the instartion for user to give an number
-       System.out.println("Enter The Value Of Base:");
+       System.out.print("Enter The Value Of Base :");
        //reading the value and storing that value to the new variable
        int base = sc.nextInt();
        //printing the instruction for user to give an number
-       System.out.println("Enter The Power Number :");
+       System.out.print("Enter The Power Number :");
        //reading the value and storing that value to the new variable
        int power = sc.nextInt();
        //cratering the variable and storing the value
@@ -25,7 +25,7 @@ class Power {
        //closing the for loop
         }
         // printing the value of base and value of value with instruction
-        System.out.println("The Power Of" + base + " Is :" + value);
+        System.out.println("The Power Of " + base + " Is :" + value);
     //closing the main block
     }
 //closing the class block
