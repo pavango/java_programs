@@ -86,8 +86,9 @@ List of java programs
 ##### 23) Program to print Sum of each Row And Column :- https://github.com/pavango/java_programs/blob/master/array_programs/SumOfEachRowAndColumnOfMatrix.java
 ##### 24) Program to print Sum of given Array Elements :- https://github.com/pavango/java_programs/blob/master/array_programs/SumOfGivenArrayElements.java
 ##### 25) Program to print Transpose Of Given Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/TransposeOfGivenMatrix.java
-### Testing Programs :-
-#### Programs Which are includes Source Code & also Test Code :-
+## Testing Programs :-
+* ### Programs Which are includes Source Code & also Test Code :-
+### * Numbers Codes :-
 ##### 1) Code To Add two Numbers :-
 - Source Code to Add two numbers : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/Calculator.java
 - Test Code to Add two number : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/CalculatorTests.java
@@ -99,34 +100,46 @@ List of java programs
 * Source code to calculate Area Of Cube : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/AreaOfCube.java
 * Test code to calculate Area Of Cuebe : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/AreaOfCubeTests.java
 
-##### 4) Code To Check Given Strings Are Same Or Not :-
+##### 4) Check Disarium Number Or Not :-
+* Source code to check Disarium Number Or Not : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/CheckDisariumNumber.java
+* Test code to check Disarium Number Or Not : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/CheckDisariumNumberTests.java
+##### 5) Check Length Of Given Number :-
+* Source code to check Length of given number : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/CheckLengthOfGivenNumber.java
+* Test code to check Length of given number : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/CheckLengthOfGivenNumberTest.java
+##### 6) Calculate Power Of Given Number :-
+* Source code to calculate Power of given number : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/PowerOf.java
+* Test code to check Power of given number : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/PowerOfTests.java
+
+### * Strings Codes :-
+
+##### 1) Code To Check Given Strings Are Same Or Not :-
 * Source Code to Check Strings Are Same Or Not : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CheckStringsAreSame.java
 * Test Code to Check Strings Are Same Or Not : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CheckStringsAreSameTest.java
 
-##### 5) Code To Count Punctions In The Given String :-
+##### 2) Code To Count Punctions In The Given String :-
 * Source Code To Count Punctions In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CountPunctuations.java
 * Test Code To Count Punctions In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CountPunctuationsTests.java
 
-##### 6) Code To Count Vowels In The Given String :-
+##### 3) Code To Count Vowels In The Given String :-
 * Source Code to Count Vowels In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CountVowels.java
 * Test Code to Count Vowels In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CountVowelsTests.java
 
-##### 7) Code To Count Words In The Given String :-
+##### 4) Code To Count Words In The Given String :-
 * Source Code To Count Words In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CountWordsInString.java
 * Test Code To Count Words In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CountWordsInStringTests.java
 
-##### 8) Code To Check The Length Of An Given String :-
+##### 5) Code To Check The Length Of An Given String :-
 * Source Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/Length.java
 * Test Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/LengthTests.java
 
-##### 9) Code To Remove The White Space In The Given Sting :-
+##### 6) Code To Remove The White Space In The Given Sting :-
 * Source Code To Remove The White Space In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/RemoveWhiteSpace.java
 * Test Code To Remove The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/RemoveWhiteSpaceTests.java
 
-##### 10) Code To Replace The White Space In The Given Sting :-
+##### 7) Code To Replace The White Space In The Given Sting :-
 * Source Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/ReplaceWhiteSpace.java
 * Test Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/ReplaceWhiteSpaceTests.java
 
-##### 11) Code To Trim Space In The Given String :-
+##### 8) Code To Trim Space In The Given String :-
 * Source Code To Trim Space In The String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/TrimSpace.java
 * Test Code To Trim Space In The String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/TrimSpaceTests.java
