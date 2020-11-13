@@ -100,15 +100,18 @@ List of java programs
 * Source code to calculate Area Of Cube : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/AreaOfCube.java
 * Test code to calculate Area Of Cuebe : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/AreaOfCubeTests.java
 
-##### 4) Check Disarium Number Or Not :-
+##### 4) Code To Check Disarium Number Or Not :-
 * Source code to check Disarium Number Or Not : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/CheckDisariumNumber.java
 * Test code to check Disarium Number Or Not : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/CheckDisariumNumberTests.java
-##### 5) Check Length Of Given Number :-
+##### 5) Code To Check Length Of Given Number :-
 * Source code to check Length of given number : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/CheckLengthOfGivenNumber.java
 * Test code to check Length of given number : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/CheckLengthOfGivenNumberTest.java
-##### 6) Calculate Power Of Given Number :-
+##### 6) Code To Calculate Power Of Given Number :-
 * Source code to calculate Power of given number : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/PowerOf.java
 * Test code to check Power of given number : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/PowerOfTests.java
+##### 7) Code To Print Given Number In Revers :-
+* Source code to print given numbers in Revers : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/ReversNumber.java
+* Test code to print given numbers in Revers : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/ReversNumberTests.java
 
 ### * Strings Codes :-
 
