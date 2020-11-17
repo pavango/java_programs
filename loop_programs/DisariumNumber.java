@@ -34,9 +34,9 @@ class DisariumNumber {
         int number = sc.nextInt();
         int cubeofdigits = getPowerOfDigits(number);
         if (cubeofdigits == number) {
-            System.out.println("It Is A Disarium Number");
+            System.out.println(" It Is A Disarium Number ");
         } else {
-            System.out.println("It is Not A Disarium Number");
+            System.out.println(" It is Not A Disarium Number ");
         }
     }
 }
