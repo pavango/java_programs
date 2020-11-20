@@ -27,7 +27,6 @@ List of java programs
 ##### 10) Area Of Square :- https://github.com/pavango/java_programs/blob/master/basic_programs/AreaOfSquare.java
 
 ##### 11) Area Of Triangle :- https://github.com/pavango/java_programs/blob/master/basic_programs/AreaOfTriangle.java
-
 ##### 12) Perimeter Of Rectangle :- https://github.com/pavango/java_programs/blob/master/basic_programs/PerimeterOfRectangle.java
 
 ##### 13) Volume Of Cone :- https://github.com/pavango/java_programs/blob/master/basic_programs/VolumeOfCone.java
