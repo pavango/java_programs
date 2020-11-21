@@ -205,8 +205,13 @@ List of java programs
 * Test code to print given numbers in Revers : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/ReversNumberTests.java
 
 ### * Strings Codes :-
+##### 1) Code To Check Given Strings Are Anagram Or Not :-
 
-##### 1) Code To Check Given Strings Are Same Or Not :-
+* Source Code to Check Strings Are Anagram Or Not : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CheckStingsAreAnagramOrNot.java
+
+* Test Code to Check Strings Are Anagram Or Not : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CheckStingsAreAnagramOrNotTests.java
+
+##### 2) Code To Check Given Strings Are Same Or Not :-
 
 * Source Code to Check Strings Are Same Or Not : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/CheckStringsAreSame.java
 
