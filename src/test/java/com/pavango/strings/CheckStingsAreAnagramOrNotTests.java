@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class CheckStingsAreAnagramOrNotTests {
     @Test
-    void shouldCountVowelsInTheGivenString() {
+    void shouldCheckTheGivenStingIsAnagramOrNot() {
         CheckStingsAreAnagramOrNot checkAnargamOrNot = new CheckStingsAreAnagramOrNot();
 
         boolean checked = checkAnargamOrNot.checkStingsAreFalseOrNot("Grab", "Brag");
