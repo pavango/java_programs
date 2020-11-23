@@ -170,7 +170,6 @@ List of java programs
 
 ##### 2) Code To Calculate Area Of Circle :-
 
-
 * Source code to calculate Area Of Circle : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/numbers/AreaOfCircle.java
 
 * Test code to calculate Area Of Circle : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/numbers/AreaOfCircleTests.java
