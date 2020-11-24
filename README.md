@@ -235,6 +235,11 @@ List of java programs
 
 * Test Code To Count Words In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CountWordsInStringTests.java
 
+##### 6) Code To Determine Whether Given String Is Palindrome Or Not :-
+* Source Code determaine Whether given string is Palindrome or Not : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/DetermineWhetheraGivenStringisPalindrome.java
+
+* Test Code determaine Whether given string is Palindrome or Not : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/DetermineWhetheraGivenStringisPalindromeTests.java
+
 ##### 6) Code To Check The Length Of An Given String :-
 
 * Source Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/Length.java
