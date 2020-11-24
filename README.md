@@ -240,31 +240,31 @@ List of java programs
 
 * Test Code determaine Whether given string is Palindrome or Not : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/DetermineWhetheraGivenStringisPalindromeTests.java
 
-##### 6) Code To Check The Length Of An Given String :-
+##### 7) Code To Check The Length Of An Given String :-
 
 * Source Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/Length.java
 
 * Test Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/LengthTests.java
 
-##### 7) Code To Remove The White Space In The Given Sting :-
+##### 8) Code To Remove The White Space In The Given Sting :-
 
 * Source Code To Remove The White Space In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/RemoveWhiteSpace.java
 
 * Test Code To Remove The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/RemoveWhiteSpaceTests.java
 
-##### 8) Code To Replace The Given String To Opposite Case :-
+##### 9) Code To Replace The Given String To Opposite Case :-
 
 * Source Code To Replace The String To Opposite Case : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/ReplaceTheGivenStringToOppositCase.java
 
 * Test Code To Replace The String To Opposite Case : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/ReplaceTheGivenStringToOppositCaseTests.java
 
-##### 9) Code To Replace The White Space In The Given Sting :-
+##### 10) Code To Replace The White Space In The Given Sting :-
 
 * Source Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/ReplaceWhiteSpace.java
 
 * Test Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/ReplaceWhiteSpaceTests.java
 
-##### 10) Code To Trim Space In The Given String :-
+##### 11) Code To Trim Space In The Given String :-
 
 * Source Code To Trim Space In The String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/TrimSpace.java
 
