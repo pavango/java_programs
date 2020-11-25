@@ -236,35 +236,42 @@ List of java programs
 * Test Code To Count Words In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/CountWordsInStringTests.java
 
 ##### 6) Code To Determine Whether Given String Is Palindrome Or Not :-
+
 * Source Code determaine Whether given string is Palindrome or Not : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/DetermineWhetheraGivenStringisPalindrome.java
 
 * Test Code determaine Whether given string is Palindrome or Not : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/DetermineWhetheraGivenStringisPalindromeTests.java
 
-##### 7) Code To Check The Length Of An Given String :-
+##### 7) Code To Determine Whether One String is Rotation of Another :-
+
+* Source Code to Check Whether One Stringis Rotation of Another : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/DetermineWhetherOneStringisRotationofAnother.java
+
+* Test Code to Check Whether One Stringis Rotation of Another : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/DetermineWhetherOneStringisRotationofAnotherTests.java
+
+##### 8) Code To Check The Length Of An Given String :-
 
 * Source Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/Length.java
 
 * Test Code To Check The Length Of An String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/LengthTests.java
 
-##### 8) Code To Remove The White Space In The Given Sting :-
+##### 9) Code To Remove The White Space In The Given Sting :-
 
 * Source Code To Remove The White Space In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/RemoveWhiteSpace.java
 
 * Test Code To Remove The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/RemoveWhiteSpaceTests.java
 
-##### 9) Code To Replace The Given String To Opposite Case :-
+##### 10) Code To Replace The Given String To Opposite Case :-
 
 * Source Code To Replace The String To Opposite Case : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/ReplaceTheGivenStringToOppositCase.java
 
 * Test Code To Replace The String To Opposite Case : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/ReplaceTheGivenStringToOppositCaseTests.java
 
-##### 10) Code To Replace The White Space In The Given Sting :-
+##### 11) Code To Replace The White Space In The Given Sting :-
 
 * Source Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/ReplaceWhiteSpace.java
 
 * Test Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/ReplaceWhiteSpaceTests.java
 
-##### 11) Code To Trim Space In The Given String :-
+##### 12) Code To Trim Space In The Given String :-
 
 * Source Code To Trim Space In The String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/TrimSpace.java
 
