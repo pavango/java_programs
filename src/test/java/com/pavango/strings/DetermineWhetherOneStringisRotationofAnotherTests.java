@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class DetermineWhetherOneStringisRotationofAnotherTests {
     @Test
-    void shouldDetermineWhetherOneStringisRotationofAnotherTests() {
+    void shouldDetermineWhetherOneStringisRotationofAnother() {
         DetermineWhetherOneStringisRotationofAnother determineWhetherOneStringisRotationofAnother = new DetermineWhetherOneStringisRotationofAnother();
 
         boolean checked = determineWhetherOneStringisRotationofAnother.checkGivenOneStringIsRotationOfAnother("abcde", "deabc");
@@ -13,7 +13,7 @@ class DetermineWhetherOneStringisRotationofAnotherTests {
         Assertions.assertEquals(true, checked);
     }
     @Test
-    void shouldDetermineWhetherOneStringisRotationofAnotherOrNotTests() {
+    void shouldDetermineWhetherOneStringisRotationofAnotherOrNot() {
         DetermineWhetherOneStringisRotationofAnother determineWhetherOneStringisRotationofAnother = new DetermineWhetherOneStringisRotationofAnother();
 
         boolean checked = determineWhetherOneStringisRotationofAnother.checkGivenOneStringIsRotationOfAnother("abcde", "dbcae");
