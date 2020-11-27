@@ -271,7 +271,13 @@ List of java programs
 
 * Test Code To Replace The White Space In String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/ReplaceWhiteSpaceTests.java
 
-##### 12) Code To Trim Space In The Given String :-
+##### 12) Code To Revars Given String :-
+
+* Source Code To Revars Given String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/RevarsGivenString.java
+
+* Test Code To Revars Given String : https://github.com/pavango/java_programs/blob/master/src/test/java/com/pavango/strings/RevarsGivenStringTests.java
+
+##### 13) Code To Trim Space In The Given String :-
 
 * Source Code To Trim Space In The String : https://github.com/pavango/java_programs/blob/master/src/main/java/com/pavango/strings/TrimSpace.java
 
