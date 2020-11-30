@@ -156,6 +156,16 @@ List of java programs
 
 ##### 25) Program to print Transpose Of Given Matrix :- https://github.com/pavango/java_programs/blob/master/array_programs/TransposeOfGivenMatrix.java
 
+### String programs :-
+
+#### These Programs are created by useing String :-
+
+##### 1) Program To Find Maximum And Minimum Occurring Character in The Given String :- https://github.com/pavango/java_programs/blob/master/string_programs/FindMaximumAndMinimumOccurringCharacterinGivenString.java
+
+##### 2) Program To Find the Duplicate Characters in Given String :- https://github.com/pavango/java_programs/blob/master/string_programs/FindtheDuplicateCharactersinGivenString.java
+
+##### 3) Program To Find the Duplicate Words in Given String :- https://github.com/pavango/java_programs/blob/master/string_programs/FindtheDuplicateWordsinGivenString.java
+
 ## Testing Programs :-
 
 * ### Programs Which are includes Source Code & also Test Code :-
