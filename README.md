@@ -160,6 +160,8 @@ List of java programs
 
 #### These Programs are created by useing String :-
 
+##### 1) Program To Check Given Strings Are Anagram Or Not :- https://github.com/pavango/java_programs/blob/master/string_programs/CheckStringsAreAnagramOrNot.java
+
 ##### 1) Program To Find Maximum And Minimum Occurring Character in The Given String :- https://github.com/pavango/java_programs/blob/master/string_programs/FindMaximumAndMinimumOccurringCharacterinGivenString.java
 
 ##### 2) Program To Find the Duplicate Characters in Given String :- https://github.com/pavango/java_programs/blob/master/string_programs/FindtheDuplicateCharactersinGivenString.java
