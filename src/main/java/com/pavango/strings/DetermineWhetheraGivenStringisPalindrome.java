@@ -1,6 +1,6 @@
 package com.pavango.strings;
 
-class DetermineWhetheraGivenStringisPalindrome {
+public class DetermineWhetheraGivenStringisPalindrome {
     public static boolean checkTheGivenStringIsPalindromOrNot(String input){
        boolean flag = true;
        input = input.toLowerCase();

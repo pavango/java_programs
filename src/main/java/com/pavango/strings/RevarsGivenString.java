@@ -1,6 +1,6 @@
 package com .pavango.strings;
 
-class RevarsGivenString {
+publiclass RevarsGivenString {
     public static String revarsTheString (String input) {
         String reversedStr = "";
         for(int i = input.length()-1; i >= 0; i--){
